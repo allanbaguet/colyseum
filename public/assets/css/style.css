@@ -1,0 +1,23 @@
+.morning {
+    background-image: url(/public/assets/img/landscape-1844227_1920.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.day {
+    background-image: url(/public/assets/img/landscape-1844229_1920.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.afternoon {
+    background-image: url(/public/assets/img/landscape-1844230_1920.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.night {
+    background-image: url(/public/assets/img/landscape-1844231_1920.png);
+    height: 100vh;
+    background-size: cover;
+}
